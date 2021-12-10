@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/omerkhanjadoon](https://www.github.com/omerkhanjadoon)
 
-- 💬 Ask me about **any technology related stuff**
+- 💬 Ask me about **Machine Learning, Android Development, Full Stack Web Development**
 
 - 📫 How to reach me **omerkhanjadoon@outlook.com**
 
