@@ -31,7 +31,7 @@ Here are some of my featured projects. Click on the links to explore the code!
 ### 🧠 Zomato Food Sales Insights Dashboard
 
 - **Description:** A dynamic and insightful Zomato Food Sales Dashboard in Qlik Sense to analyze Zomato Food Sales. Leveraging the power of data visualization to uncover trends, optimize strategies, and make informed decisions.
-- **🔗 Repository:** [your-github-profile/zomato-food-sales-dashboard](https://github.com/your-github-profile/zomato-food-sales-dashboard)
+- **🔗 Repository:** [omerkhanjadoon.com/zomato-food-sales-dashboard](https://github.com/your-github-profile/zomato-food-sales-dashboard)
 - **📌 Highlights:**
   - Transformed raw data into actionable insights.
   - Enhanced decision-making through interactive visualizations.
@@ -40,7 +40,7 @@ Here are some of my featured projects. Click on the links to explore the code!
 ### 📚 KP Flood Fund Management Dashboard in Microsoft Power BI
 
 - **Description:** A powerful tool designed to efficiently manage and monitor financial aspects related to flood relief funds. Leveraging the capabilities of Power BI, this dashboard provides a comprehensive view of critical financial information.
-- **🔗 Repository:** [your-github-profile/kp-flood-fund-management-dashboard](https://github.com/your-github-profile/kp-flood-fund-management-dashboard)
+- **🔗 Repository:** [omerkhanjadoon.com/kp-flood-fund-management-dashboard](https://github.com/your-github-profile/kp-flood-fund-management-dashboard)
 - **📌 Highlights:**
   - Streamlined fund management processes.
   - Provided real-time financial insights.
