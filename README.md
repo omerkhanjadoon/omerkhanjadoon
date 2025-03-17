@@ -1,12 +1,10 @@
-# 🌟 Omer Khan Jadoon | Generative AI Engineer & AI Consultant  
+# Omer Khan Jadoon
 
-![Profile Picture](https://omerkhanjadoon.com/your-profile-picture.jpg)  
+**Generative AI Engineer | AI Consultant**
 
-[![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://omerkhanjadoon.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://de.linkedin.com/in/omerkhanjadoon)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/your-github-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-@omerjadoo-1DA1F2)](https://twitter.com/omerjadoo)  
-[![Email](https://img.shields.io/badge/Email-Contact-orange)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://de.linkedin.com/in/omerkhanjadoon)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/your-github-profile)
+[![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://omerkhanjadoon.com/)
 
 ---
 
@@ -51,9 +49,11 @@ Here are some of my featured projects. Click on the links to explore the code!
 ---
 
 ## 🏢 Experience
+**Ai Expert at SanaExpert GmbH**  
+📍 Munich, Germany | 🗓 Jan 2025 - Present 
 
 **Generative AI & Machine Learning Consultant at Amidiro GmbH**  
-📍 Germany | 🗓 Dec 2023 - Present  
+📍 Germany | 🗓 Dec 2023 - Nov 2024  
 - Developed RAG Pipelines using LangChain.
 - Conducted research and development on LLMs, MLLMs, and other Computer Vision & NLP models.
 - Focused on both local and cloud-based deployment strategies.
