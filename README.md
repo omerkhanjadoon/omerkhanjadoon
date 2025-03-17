@@ -1,10 +1,23 @@
-# Omer Khan Jadoon
-
-**Generative AI Engineer | AI Consultant**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://de.linkedin.com/in/omerkhanjadoon)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/your-github-profile)
-[![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://omerkhanjadoon.com/)
+<table>
+  <tr>
+    <td width="150">
+      <img src="https://omerkhanjadoon.com/wp-content/uploads/2024/03/omer-neww.png" alt="Omer Khan Jadoon" width="140" style="border-radius: 50%;">
+    </td>
+    <td>
+      <h1>Omer Khan Jadoon</h1>
+      <strong>Generative AI Engineer | AI Consultant</strong><br><br>
+      <a href="https://de.linkedin.com/in/omerkhanjadoon">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
+      </a>
+      <a href="https://github.com/your-github-profile">
+        <img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub">
+      </a>
+      <a href="https://omerkhanjadoon.com/">
+        <img src="https://img.shields.io/badge/Website-Portfolio-brightgreen" alt="Website">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
