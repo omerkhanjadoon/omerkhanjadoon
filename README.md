@@ -1,6 +1,5 @@
 <table>
-  <tr>
-    
+  <tr>  
     <td>
       <h1>Omer Khan Jadoon</h1>
       <strong>Generative AI Engineer | AI Consultant</strong><br><br>
