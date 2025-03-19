@@ -1,130 +1,120 @@
-<table>
-  <tr>  
-    <td style="width:100%">
-      <h1>Omer Khan Jadoon</h1>
-      <strong>Machine Learning Engineer | MLOPs | AI Engineer</strong><br><br>
-      <a href="https://de.linkedin.com/in/omerkhanjadoon">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
-      </a>
-      <a href="https://github.com/your-github-profile">
-        <img src="https://img.shields.io/badge/GitHub-Profile-black" alt="GitHub">
-      </a>
-      <a href="https://omerkhanjadoon.com/">
-        <img src="https://img.shields.io/badge/Website-Portfolio-brightgreen" alt="Website">
-      </a>
-    </td>
-  </tr>
-</table>
+# 💼 **Omer Khan Jadoon**  
+🎯 *Machine Learning Engineer | MLOps | AI Engineer*  
+📍 Munich, Germany | ☎️ +49 (176) 68310746 | 📧 omerkhanjadoon@outlook.com  
+🌐 [omerkhanjadoon.com](http://omerkhanjadoon.com) | [LinkedIn](https://www.linkedin.com/in/omerkhanjadoon)  
 
 ---
 
-## About Me
-
-I am a dedicated and outcome-oriented Generative AI Engineer and Consultant with over four years of comprehensive experience in machine learning, predictive analytics, and Generative AI. My expertise extends to building RAG pipelines, fine-tuning Large Language Models (LLMs), training ML/DL models, data visualizations, and advanced data analytics. I am proficient in Python and have a strong foundation in Machine Learning (ML), Deep Learning (DL), and Generative AI, enabling me to deliver innovative solutions and drive significant improvements in various projects. :contentReference[oaicite:0]{index=0}
-
----
-
-## Skills
-
-- **Programming Languages:** Python, JavaScript, C++, Java, C#, Scala
-- **Frameworks and Libraries:** TensorFlow, PyTorch, React, Next.js, Django, Flask
-- **AI Expertise:** Large Language Models (LLMs), Prompt Engineering, Generative Adversarial Networks (GANs), Diffusion Models
-- **Tools and Platforms:** GitHub, Docker, Kubernetes, Hugging Face, OpenAI API, Azure AI, Power BI, Tableau
-- **Languages:** English, German
+## 🚀 *About Me*  
+> Results-driven **Machine Learning Engineer** with 4+ years of experience in **AI**, **Data Science**, **Machine Learning**, **NLP**, and **MLOps**. Proficient in **Python**, **ML/DL**, **LLM Frameworks**, and **Cloud Deployments**.
 
 ---
 
-## 🚀 Projects
+<details>
+  <summary>🛠️ <strong>Technical Skills</strong></summary>
 
-Here are some of my featured projects. Click on the links to explore the code!
+### **Programming Languages**
+`Python` | `JavaScript` | `C/C++` | `Java` | `C#`
 
-### 🧠 Zomato Food Sales Insights Dashboard
+### **Frameworks & Tools**
+`TensorFlow` | `PyTorch` | `LangChain` | `LlamaIndex` | `Streamlit` | `Flask` | `Django`
 
-- **Description:** A dynamic and insightful Zomato Food Sales Dashboard in Qlik Sense to analyze Zomato Food Sales. Leveraging the power of data visualization to uncover trends, optimize strategies, and make informed decisions.
-- **🔗 Repository:** [omerkhanjadoon.com/zomato-food-sales-dashboard](https://github.com/your-github-profile/zomato-food-sales-dashboard)
-- **📌 Highlights:**
-  - Transformed raw data into actionable insights.
-  - Enhanced decision-making through interactive visualizations.
-  - Optimized sales strategies based on data-driven findings.
+### **Generative AI Technologies**
+`Agentic AI` | `LLMs (Llama3, Mistral, OpenAI, Gemini Pro)` | `Multimodal LLMs` | `VLMs` | `Diffusion Models` | `GANs` | `CrewAI` | `LangGraph`
 
-### 📚 KP Flood Fund Management Dashboard in Microsoft Power BI
+### **Databases**
+`Cosmos DB` | `MySQL` | `MongoDB` | `PostgreSQL` | `Firebase` | `SQL` | `ChromaDB` | `Pinecone`
 
-- **Description:** A powerful tool designed to efficiently manage and monitor financial aspects related to flood relief funds. Leveraging the capabilities of Power BI, this dashboard provides a comprehensive view of critical financial information.
-- **🔗 Repository:** [omerkhanjadoon.com/kp-flood-fund-management-dashboard](https://github.com/your-github-profile/kp-flood-fund-management-dashboard)
-- **📌 Highlights:**
-  - Streamlined fund management processes.
-  - Provided real-time financial insights.
-  - Facilitated transparent reporting to stakeholders.
+### **Deployment Platforms**
+`Azure AI` | `AWS (EC2, Lambda)` | `Hugging Face Spaces` | `Docker` | `Kubernetes` | `GitLab` | `LLMOps`
 
----
+### **AI Techniques**
+`Fine-tuning` | `RAG` | `Vector Embedding` | `NN Optimization` | `Prompt Engineering` | `LLM Evaluation`
 
-## 🏢 Experience
-**Ai Expert at SanaExpert GmbH**  
-📍 Munich, Germany | 🗓 Jan 2025 - Present 
+### **Web Development & AI Workflows**
+`Next.js` | `Flask` | `Django` | `React.js` | `FastAPI` | `Make` | `n8n` | `flowise`
 
-**Generative AI & Machine Learning Consultant at Amidiro GmbH**  
-📍 Germany | 🗓 Dec 2023 - Nov 2024  
-- Developed RAG Pipelines using LangChain.
-- Conducted research and development on LLMs, MLLMs, and other Computer Vision & NLP models.
-- Focused on both local and cloud-based deployment strategies.
-
-**Working Student Artificial Intelligence / Data Science at Remote Native GmbH**  
-📍 Germany (Remote) | 🗓 April 2023 - Oct 2023  
-- Developed and implemented NLP and Computer Vision-based use cases for Safira.ai.
-- Worked on Named Entity Recognition (NER), Visual Analysis, Speech Analysis, Background Removal & Replacement, LLM.
-- Managed projects using JIRA, Confluence, and Slack.
-
-**AI Engineer at Advance Telecom Solutions**  
-📍 USA (Remote) | 🗓 July 2022 - April 2023  
-- Performed ETL and batch scoring on various data types.
-- Created reports in Power BI for clients.
-- Deployed AI-based models to Azure Cloud.
-- Developed data pipelines and conducted batch processing.
-
-**Assistant Manager Artificial Intelligence Lab at National Radio Telecom Corporation of Pakistan**  
-📍 Pakistan (On-Site) | 🗓 Oct 2021 - June 2022  
-- Worked on Hadoop-based Big Data System for crime analysis.
-- Developed custom ETL in Django to handle telecommunication data.
-- Developed and deployed Machine Learning & Deep Learning algorithms for terrorism and crime analysis, FRS, ANPR.
-
-**Full Stack Engineer at Jadoon Technologies Pvt Ltd**  
-📍 Pakistan (Hybrid) | 🗓 Feb 2019 - Oct 2021  
-- Developed cross-platform mobile and web apps using React JS, PHP, Laravel, ASP.NET, and Django.
-- Worked on data pipelines, ETL, batch scoring, stream processing, and visualization using Power BI.
+### **Soft Skills**
+Analytical Thinking | Problem-Solving | Teamwork | Leadership | Communication | Cross-functional Collaboration
+</details>
 
 ---
 
-## 🎓 Education
+<details>
+  <summary>💼 <strong>Work Experience</strong></summary>
 
-**MS in Artificial Intelligence**  
-*Friedrich-Alexander-Universität Erlangen-Nürnberg* (2022 - present)
+### **SanaExpert GmbH** *(Jan 2025 – Present)*  
+*Artificial Intelligence Specialist | Munich, Germany*  
+- 🤖 Automated 85%+ of customer support tickets using AI across multiple countries & platforms.  
+- 🛠️ Built Custom AI Agent with Advanced RAG & tool-calling, developed backend API with FastAPI.
 
-**BS in Software Engineering**  
-*The University of Haripur* (2016 - 2020)
+### **Amidiro GmbH** *(Dec 2023 – Present)*  
+*Werkstudent Generative AI & ML Consultant | Aachen, Germany*  
+- 🎧 Lead development of Amidiro Audio Assistant boosting lead conversions by 20%.  
+- 🚀 Fine-tuned YOLO v9 on FireNet Dataset, automated safety & maintenance reports.  
+- 🔄 Built internal RAG pipeline & trained teams on prompt engineering.
 
-**Secondary School Education**  
-*BISE Abbottabad* (2014 - 2016)
+### **Remote Native GmbH** *(Apr 2023 – Oct 2023)*  
+*Werkstudent AI & Data Science | Munich, Germany*  
+- 🛠️ Created synthetic datasets & fine-tuned BERT models for NER tasks.  
+- 🎯 Fine-tuned SAM model for image segmentation & developed a 3D object API.
+
+### **Advance Telecom Services (ATS)** *(Jul 2022 – Apr 2023)*  
+*AI Engineer | Remote, USA*  
+- ☁️ Deployed CV & NLP models on Azure.  
+- 🎯 Built advanced recommendation system for automotive dealerships.
+
+### **National Radio & Telecommunication Corp. (NRTC)** *(Oct 2021 – Jun 2022)*  
+*Assistant Manager AI Lab | Haripur, Pakistan*  
+- 🏢 Built AI & Big Data Lab for KPK Police.  
+- 🕵️‍♂️ Developed OSINT tools & crime forecasting AI.
+
+### **Jadoon Technologies Pvt Ltd (JTPL)** *(Nov 2020 – Oct 2021)*  
+*Lead Software Engineer | Haripur, Pakistan*  
+- 🌐 Built cross-platform applications, AI models for emotion detection & road safety.
+
+</details>
 
 ---
 
-## 🏆 Key Achievements
+<details>
+  <summary>📂 <strong>Projects</strong></summary>
 
-- **Gold Medalist** – Awarded by the University of Haripur for outstanding academic performance.
-- **Hult Prize University Winner** – Recognized for innovative solutions in global competitions.
-- **Laptop Winner** – Awarded for exceptional academic achievements.
-- **Talented Student Award** – Recognized for consistent excellence in academics.
-- **HEC Merit-Based Scholarship** – Received from the Higher Education Commission, Pakistan.
-- **POF Merit-Based Scholarship** – Awarded by Pakistan Ordnance Factory.
+- 🎯 **SanaExpert AI Agent**: Multimodal AI Customer Support | FastAPI | Agentic AI *(Jan 2025 - Mar 2025)*  
+- 🎧 **Amidiro Audio Assistant**: AI Call Center Agent | Speech Models *(Jan 2024 - Sep 2024)*  
+- 🛒 **Safira.AI**: AI-powered E-commerce | LLMs | Azure AI *(Apr 2023 - Sep 2023)*  
+- 🔍 **Product Recommendation & Search**: Image-based recommender *(Jan 2023 - Mar 2023)*  
+- 🏗️ **Material Defect Detection**: Deep Learning for construction defects *(Oct 2022 - Dec 2022)*  
+- 🧠 **Brain Tumor Detection**: U-Net segmentation model *(Jul 2022 - Sep 2022)*  
+- 🕵️ **Facial Recognition & ANPR**: YOLO-face based surveillance *(Jan 2022 - May 2022)*  
+- 🛰️ **Criminal Investigation System (CIS)**: OSINT tool with Qlik dashboards *(Nov 2021 - Apr 2022)*  
+- 🐄 **Cow Diseases Prediction**: CNN-based skin disease detection *(Nov 2020 - Feb 2021)*  
+- 🦴 **Osteoarthritis Detection**: ResNet model for severity classification *(Jan 2020 - May 2020)*
 
----
-
-## 📬 Contact
-
-📧 **Email:** [email protected]  
-📞 **Phone:** +49 176 68310746  
-🔗 **LinkedIn:** [linkedin.com/in/omerkhanjadoon](https://de.linkedin.com/in/omerkhanjadoon)  
-🌐 **Website:** [omerkhanjadoon.com](https://omerkhanjadoon.com/)
+</details>
 
 ---
 
-*This README was last updated on March 17, 2025.*
+<details>
+  <summary>🏆 <strong>Awards & Achievements</strong></summary>
+
+- 🥇 **Gold Medal/Chancellor Medal**: Top scorer in department *(Oct 2020)*  
+- 🏆 **HEC Scholarship Winner**: Merit-based award *(Mar 2018)*  
+</details>
+
+---
+
+<details>
+  <summary>🎓 <strong>Education</strong></summary>
+
+- 🎓 **Friedrich-Alexander-Universität (FAU)** *(Oct 2022 – Present)*  
+*Master of Science in Artificial Intelligence | Erlangen, Germany*
+
+- 🎓 **The University of Haripur** *(Sep 2016 – Oct 2020)*  
+*Bachelor of Science in Software Engineering | Haripur, Pakistan*
+
+</details>
+
+---
+
+⭐ **Portfolio:** [safira.ai](http://safira.ai)
