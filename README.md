@@ -1,8 +1,6 @@
 <table>
   <tr>
-    <td width="150">
-      <img src="https://omerkhanjadoon.com/wp-content/uploads/2024/03/omer-neww.png" alt="Omer Khan Jadoon" width="140" style="border-radius: 50%;">
-    </td>
+    
     <td>
       <h1>Omer Khan Jadoon</h1>
       <strong>Generative AI Engineer | AI Consultant</strong><br><br>
