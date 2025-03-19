@@ -39,7 +39,8 @@ ___
 &nbsp;
 
 ## 💼 **Work Experience**
-<img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="python" width="40" height="40"/>
+<img src="[./path/to/logo.png](https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png)" alt="SanaExpert Logo" width="200"/>
+
 ### ☉ **SanaExpert GmbH** *(Jan 2025 – Present)*  
 *Artificial Intelligence Specialist | Munich, Germany*  
 - 🤖 Automated 85%+ of customer support tickets using AI across multiple countries & platforms.  
