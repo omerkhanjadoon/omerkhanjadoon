@@ -46,26 +46,36 @@ ___
 - 🤖 Automated 85%+ of customer support tickets using AI across multiple countries & platforms.  
 - 🛠️ Built Custom AI Agent with Advanced RAG & tool-calling, developed backend API with FastAPI.
 
+<img src="https://assets.super.so/8d26dd43-a87d-48f9-a995-7716cb675059/uploads/cover/da50fb94-1e26-4d9d-9727-3082de1209ee.png" alt="SanaExpert Logo" width="200"/>
+
 ### ☉ **Amidiro GmbH** *(Dec 2023 – Present)*  
 *Werkstudent Generative AI & ML Consultant | Aachen, Germany*  
 - 🎧 Lead development of Amidiro Audio Assistant boosting lead conversions by 20%.  
 - 🚀 Fine-tuned YOLO v9 on FireNet Dataset, automated safety & maintenance reports.  
 - 🔄 Built internal RAG pipeline & trained teams on prompt engineering.
 
+<img src="https://remote-native.com/wp-content/uploads/2023/04/Remote-Native_Logo.png" alt="SanaExpert Logo" width="200"/>
+
 ### ☉ **Remote Native GmbH** *(Apr 2023 – Oct 2023)*  
 *Werkstudent AI & Data Science | Munich, Germany*  
 - 🛠️ Created synthetic datasets & fine-tuned BERT models for NER tasks.  
 - 🎯 Fine-tuned SAM model for image segmentation & developed a 3D object API.
+
+<img src="https://images.squarespace-cdn.com/content/5f8c811985a439642d265f0d/8cdd3891-0a0c-4c81-afd0-ba2427b44114/atslogob.png" alt="SanaExpert Logo" width="200"/>
 
 ### ☉ **Advance Telecom Services (ATS)** *(Jul 2022 – Apr 2023)*  
 *AI Engineer | Remote, USA*  
 - ☁️ Deployed CV & NLP models on Azure.  
 - 🎯 Built advanced recommendation system for automotive dealerships.
 
+<img src="https://www.nrtc.com.pk/images/NRTC%20Logo%20version3c.png" alt="SanaExpert Logo" width="200"/>
+
 ### ☉ **National Radio & Telecommunication Corp. (NRTC)** *(Oct 2021 – Jun 2022)*  
 *Assistant Manager AI Lab | Haripur, Pakistan*  
 - 🏢 Built AI & Big Data Lab for KPK Police.  
 - 🕵️‍♂️ Developed OSINT tools & crime forecasting AI.
+
+<img src="https://jadoontechnologies.com/images/jtlogo.png" alt="SanaExpert Logo" width="200"/>
 
 ### ☉ **Jadoon Technologies Pvt Ltd (JTPL)** *(Nov 2020 – Oct 2021)*  
 *Lead Software Engineer | Haripur, Pakistan*  
