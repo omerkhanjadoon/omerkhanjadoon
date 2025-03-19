@@ -15,25 +15,25 @@ ___
   <summary>🛠️ <strong>Technical Skills</strong></summary>
   
   **Programming Languages**  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> ` Python` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>` JavaScript` | `💻 C/C++` | `☕ Java` | `🖥️ C#`
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> `Python` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> `JavaScript` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> `C/C++` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> `Java` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> `C#`
 
   **Frameworks & Tools**  
-  `🤖 TensorFlow` | `🔥 PyTorch` | `🌐 LangChain` | `📊 Streamlit` | `🧰 Flask` | `🖥️ Django`
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="20" height="20"/> `TensorFlow` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="20" height="20"/> `PyTorch` | `🌐 LangChain` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="20" height="20"/> `Streamlit` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="20" height="20"/> `Flask` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="20" height="20"/> `Django`
 
   **Generative AI Technologies**  
   `🤖 Agentic AI` | `🌐 LLMs (Llama3, Mistral, OpenAI, Gemini Pro)` | `🌟 Multimodal LLMs` | `🧠 VLMs` | `🎨 Diffusion Models` | `🌀 GANs` | `🚀 CrewAI` | `🔗 LangGraph` | `💡 Prompt Engineering`
 
   **Databases**  
-  `💾 Cosmos DB` | `🗄️ MySQL` | `📚 MongoDB` | `📊 PostgreSQL` | `🔥 Firebase` | `🔑 SQL` | `🗂️ ChromaDB` | `🌲 Pinecone`
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/> `MongoDB` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/> `MySQL` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20"/> `PostgreSQL` | `💾 Cosmos DB` | `📚 MongoDB` | `📊 PostgreSQL` | `🔥 Firebase` | `🔑 SQL` | `🗂️ ChromaDB` | `🌲 Pinecone`
 
   **Deployment Platforms**  
-  `☁️ Azure AI` | `🖥️ AWS (EC2, Lambda)` | `🚀 Hugging Face Spaces` | `🐳 Docker` | `🛠️ Kubernetes` | `📝 GitLab` | `🌐 LLMOps`
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="20" height="20"/> `Azure AI` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="20" height="20"/> `AWS (EC2, Lambda)` | `🚀 Hugging Face Spaces` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="20" height="20"/> `Docker` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="20" height="20"/> `Kubernetes` | `📝 GitLab` | `🌐 LLMOps`
 
   **AI Techniques**  
   `🎯 Fine-tuning` | `🔄 RAG` | `🧩 Vector Embedding` | `⚡ NN Optimization` | `💡 Prompt Engineering` | `📊 LLM Evaluation`
 
   **Web Development & AI Workflows**  
-  `⚙️ Next.js` | `🧰 Flask` | `🖥️ Django` | `⚛️ React.js` | `⚡ FastAPI` | `🔧 Make` | `🔄 n8n` | `🌀 flowise`
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="20" height="20"/> `Next.js` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="20" height="20"/> `Flask` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="20" height="20"/> `Django` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> `React.js` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="20" height="20"/> `FastAPI` | `🔧 Make` | `🔄 n8n` | `🌀 flowise`
 
   **Soft Skills**  
   `🧠 Analytical Thinking` | `🛠️ Problem-Solving` | `🤝 Teamwork` | `👥 Leadership` | `🗣️ Communication` | `🔄 Cross-functional Collaboration`
