@@ -120,14 +120,12 @@ ___
 
 &nbsp;
 
-<details>
-  <summary>📞 <strong>Contact Information</strong></summary>
-
-- ☎️ **Phone**: +49 (176) 68310746  
-- 📧 **Email**: [omerkhanjadoons@gmail.com](mailto:omerkhanjadoons@gmail.com)  
-- 🌐 **Website**: [omerkhanjadoon.com](http://omerkhanjadoon.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/omerkhanjadoon](https://www.linkedin.com/in/omerkhanjadoon)  
-- 📘 **Facebook**: [facebook.com/omerkhanjadoon](https://www.facebook.com/omerkhanjadoon/)  
-- 📷 **Instagram**: [instagram.com/omerkhanjadoon](https://www.instagram.com/omerkhanjadoon/)
-
-</details>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/omerkhanjadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omerkhanjadoon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omerkhanjadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerkhanjadoon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/omerkhanjadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="omerkhanjadoon" height="30" width="40" /></a>
+<a href="https://fb.com/omerkhanjadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omerkhanjadoon" height="30" width="40" /></a>
+<a href="https://instagram.com/omerkhanjadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omerkhanjadoon" height="30" width="40" /></a>
+<a href="https://www.behance.net/omerkhanjadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="omerkhanjadoon" height="30" width="40" /></a>
+</p>
