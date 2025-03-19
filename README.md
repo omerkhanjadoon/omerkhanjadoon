@@ -1,7 +1,7 @@
-# 💼 **Omer Khan Jadoon**  
+# **Omer Khan Jadoon** 👨‍💻
 🎯 *Machine Learning Engineer | MLOps | AI Engineer*  
 📍 Munich, Germany | ☎️ +49 (176) 68310746 | 📧 omerkhanjadoon@outlook.com  
-🌐 [omerkhanjadoon.com](http://omerkhanjadoon.com) | [LinkedIn](https://www.linkedin.com/in/omerkhanjadoon)  
+🌐 [Website/Portfolio](http://omerkhanjadoon.com) | [LinkedIn](https://www.linkedin.com/in/omerkhanjadoon)  
 
 ---
 
@@ -17,10 +17,10 @@
 `Python` | `JavaScript` | `C/C++` | `Java` | `C#`
 
 ### **Frameworks & Tools**
-`TensorFlow` | `PyTorch` | `LangChain` | `LlamaIndex` | `Streamlit` | `Flask` | `Django`
+`TensorFlow` | `PyTorch` | `LangChain` | `Streamlit` | `Flask` | `Django`
 
 ### **Generative AI Technologies**
-`Agentic AI` | `LLMs (Llama3, Mistral, OpenAI, Gemini Pro)` | `Multimodal LLMs` | `VLMs` | `Diffusion Models` | `GANs` | `CrewAI` | `LangGraph`
+`Agentic AI` | `LLMs (Llama3, Mistral, OpenAI, Gemini Pro)` | `Multimodal LLMs` | `VLMs` | `Diffusion Models` | `GANs` | `CrewAI` | `LangGraph` | `Prompt Engineering`
 
 ### **Databases**
 `Cosmos DB` | `MySQL` | `MongoDB` | `PostgreSQL` | `Firebase` | `SQL` | `ChromaDB` | `Pinecone`
@@ -35,7 +35,7 @@
 `Next.js` | `Flask` | `Django` | `React.js` | `FastAPI` | `Make` | `n8n` | `flowise`
 
 ### **Soft Skills**
-Analytical Thinking | Problem-Solving | Teamwork | Leadership | Communication | Cross-functional Collaboration
+`Analytical Thinking` | `Problem-Solving` | `Teamwork` | `Leadership` | `Communication` | `Cross-functional Collaboration`
 </details>
 
 ---
@@ -117,4 +117,14 @@ Analytical Thinking | Problem-Solving | Teamwork | Leadership | Communication | 
 
 ---
 
-⭐ **Portfolio:** [safira.ai](http://safira.ai)
+<details>
+  <summary>📞 <strong>Contact Information</strong></summary>
+
+- ☎️ **Phone**: +49 (176) 68310746  
+- 📧 **Email**: [omerkhanjadoons@gmail.com](mailto:omerkhanjadoons@gmail.com)  
+- 🌐 **Website**: [omerkhanjadoon.com](http://omerkhanjadoon.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/omerkhanjadoon](https://www.linkedin.com/in/omerkhanjadoon)  
+- 📘 **Facebook**: [facebook.com/omerkhanjadoon](https://www.facebook.com/omerkhanjadoon/)  
+- 📷 **Instagram**: [instagram.com/omerkhanjadoon](https://www.instagram.com/omerkhanjadoon/)
+
+</details>
