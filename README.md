@@ -15,7 +15,7 @@ ___
   <summary>🛠️ <strong>Technical Skills</strong></summary>
   
   **Programming Languages**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> ` Python` | `⚙️ JavaScript` | `💻 C/C++` | `☕ Java` | `🖥️ C#`
+ ` <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  Python` | `⚙️ JavaScript` | `💻 C/C++` | `☕ Java` | `🖥️ C#`
 
   **Frameworks & Tools**  
   `🤖 TensorFlow` | `🔥 PyTorch` | `🌐 LangChain` | `📊 Streamlit` | `🧰 Flask` | `🖥️ Django`
