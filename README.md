@@ -38,7 +38,7 @@
 `Analytical Thinking` | `Problem-Solving` | `Teamwork` | `Leadership` | `Communication` | `Cross-functional Collaboration`
 </details>
 
-🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸
+&nbsp;
 
 <details>
   <summary>💼 <strong>Work Experience</strong></summary>
@@ -75,7 +75,7 @@
 
 </details>
 
-🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸
+&nbsp;
 
 <details>
   <summary>📂 <strong>Projects</strong></summary>
@@ -93,7 +93,7 @@
 
 </details>
 
-🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸
+&nbsp;
 
 <details>
   <summary>🏆 <strong>Awards & Achievements</strong></summary>
@@ -102,7 +102,7 @@
 - 🏆 **HEC Scholarship Winner**: Merit-based award *(Mar 2018)*  
 </details>
 
-🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸
+&nbsp;
 
 <details>
   <summary>🎓 <strong>Education</strong></summary>
@@ -115,7 +115,7 @@
 
 </details>
 
-🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸
+&nbsp;
 
 <details>
   <summary>📞 <strong>Contact Information</strong></summary>
