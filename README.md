@@ -9,13 +9,13 @@ ___
 > Results-driven **Machine Learning Engineer** with 4+ years of experience in **AI**, **Data Science**, **Machine Learning**, **NLP**, and **MLOps**. Proficient in **Python**, **ML/DL**, **LLM Frameworks**, and **Cloud Deployments**.
 
 &nbsp;
-___
+
 
 <details> 
   <summary>🛠️ <strong>Technical Skills</strong></summary>
   
   **Programming Languages**  
-  `🐍 Python` | `⚙️ JavaScript` | `💻 C/C++` | `☕ Java` | `🖥️ C#`
+  `🐍 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> Python` | `⚙️ JavaScript` | `💻 C/C++` | `☕ Java` | `🖥️ C#`
 
   **Frameworks & Tools**  
   `🤖 TensorFlow` | `🔥 PyTorch` | `🌐 LangChain` | `📊 Streamlit` | `🧰 Flask` | `🖥️ Django`
@@ -119,7 +119,6 @@ ___
 </details>
 
 &nbsp;
-___
 
 <details>
   <summary>📞 <strong>Contact Information</strong></summary>
