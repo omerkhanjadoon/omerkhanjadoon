@@ -40,6 +40,7 @@ ___
 
 ## 💼 **Work Experience**
 
+| Column 1 | Column 2 |
 |----------|----------|
 | <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   | **SanaExpert GmbH** <br>  *Artificial Intelligence Specialist - Munich, Germany*   <br> (Jan 2025 – Present) <br> 🤖 Automated 85%+ of customer support tickets using AI across multiple countries & platforms. <br> 🛠️ Built Custom AI Agent with Advanced RAG & tool-calling, developed backend API with FastAPI.|
 | .   |   |
