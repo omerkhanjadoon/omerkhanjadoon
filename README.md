@@ -1,8 +1,8 @@
 <table>
   <tr>  
-    <td>
+    <td style="width:100%">
       <h1>Omer Khan Jadoon</h1>
-      <strong>Generative AI Engineer | AI Consultant</strong><br><br>
+      <strong>Machine Learning Engineer | MLOPs | AI Engineer</strong><br><br>
       <a href="https://de.linkedin.com/in/omerkhanjadoon">
         <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
       </a>
