@@ -3,7 +3,7 @@
 📍 Munich, Germany | ☎️ +49 (176) 68310746 | 📧 omerkhanjadoon@outlook.com  
 🌐 [Website](http://omerkhanjadoon.com) | [LinkedIn](https://www.linkedin.com/in/omerkhanjadoon)  
 
---
+<hr style="border-top: 1px dotted #999;" />
 
 ## 🚀 *About Me*  
 > Results-driven **Machine Learning Engineer** with 4+ years of experience in **AI**, **Data Science**, **Machine Learning**, **NLP**, and **MLOps**. Proficient in **Python**, **ML/DL**, **LLM Frameworks**, and **Cloud Deployments**.
