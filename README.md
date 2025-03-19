@@ -1,4 +1,4 @@
-# **Omer Khan Jadoon** 👨‍💻
+# **Omer Khan Jadoon** 👨‍💻  
 🎯 *Machine Learning Engineer | MLOps | AI Engineer*  
 📍 Munich, Germany | ☎️ +49 (176) 68310746 | 📧 omerkhanjadoon@outlook.com  
 🌐 [Website](http://omerkhanjadoon.com) | [LinkedIn](https://www.linkedin.com/in/omerkhanjadoon)  
@@ -10,41 +10,35 @@ ___
 
 &nbsp;
 
+## 🛠️ **Technical Skills**
 
-<details> 
-  <summary>🛠️ <strong>Technical Skills</strong></summary>
-  
-  **Programming Languages**  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> `Python` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> `JavaScript` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> `C/C++` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> `Java` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> `C#`
+**Programming Languages**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> `Python` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> `JavaScript` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> `C/C++` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/> `Java` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/> `C#`
 
-  **Frameworks & Tools**  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="20" height="20"/> `TensorFlow` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="20" height="20"/> `PyTorch` | `🌐 LangChain` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="20" height="20"/> `Streamlit` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="20" height="20"/> `Flask` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="20" height="20"/> `Django`
+**Frameworks & Tools**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="20" height="20"/> `TensorFlow` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="20" height="20"/> `PyTorch` | `🌐 LangChain` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="20" height="20"/> `Streamlit` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="20" height="20"/> `Flask` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="20" height="20"/> `Django`
 
-  **Generative AI Technologies**  
-  `🤖 Agentic AI` | `🌐 LLMs (Llama3, Mistral, OpenAI, Gemini Pro)` | `🌟 Multimodal LLMs` | `🧠 VLMs` | `🎨 Diffusion Models` | `🌀 GANs` | `🚀 CrewAI` | `🔗 LangGraph` | `💡 Prompt Engineering`
+**Generative AI Technologies**  
+`🤖 Agentic AI` | `🌐 LLMs (Llama3, Mistral, OpenAI, Gemini Pro)` | `🌟 Multimodal LLMs` | `🧠 VLMs` | `🎨 Diffusion Models` | `🌀 GANs` | `🚀 CrewAI` | `🔗 LangGraph` | `💡 Prompt Engineering`
 
-  **Databases**  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/> `MongoDB` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/> `MySQL` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20"/> `PostgreSQL` | `💾 Cosmos DB` | `📚 MongoDB` | `📊 PostgreSQL` | `🔥 Firebase` | `🔑 SQL` | `🗂️ ChromaDB` | `🌲 Pinecone`
+**Databases**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="20" height="20"/> `MongoDB` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/> `MySQL` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="20" height="20"/> `PostgreSQL` | `💾 Cosmos DB` | `📚 MongoDB` | `📊 PostgreSQL` | `🔥 Firebase` | `🔑 SQL` | `🗂️ ChromaDB` | `🌲 Pinecone`
 
-  **Deployment Platforms**  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="20" height="20"/> `Azure AI` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> `AWS (EC2, Lambda)` | `🚀 Hugging Face Spaces` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="20" height="20"/> `Docker` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="20" height="20"/> `Kubernetes` | `📝 GitLab` | `🌐 LLMOps`
+**Deployment Platforms**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="20" height="20"/> `Azure AI` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> `AWS (EC2, Lambda)` | `🚀 Hugging Face Spaces` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="20" height="20"/> `Docker` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="20" height="20"/> `Kubernetes` | `📝 GitLab` | `🌐 LLMOps`
 
-  **AI Techniques**  
-  `🎯 Fine-tuning` | `🔄 RAG` | `🧩 Vector Embedding` | `⚡ NN Optimization` | `💡 Prompt Engineering` | `📊 LLM Evaluation`
+**AI Techniques**  
+`🎯 Fine-tuning` | `🔄 RAG` | `🧩 Vector Embedding` | `⚡ NN Optimization` | `💡 Prompt Engineering` | `📊 LLM Evaluation`
 
-  **Web Development & AI Workflows**  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="20" height="20"/> `Next.js` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="20" height="20"/> `Flask` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="20" height="20"/> `Django` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> `React.js` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="20" height="20"/> `FastAPI` | `🔧 Make` | `🔄 n8n` | `🌀 flowise`
+**Web Development & AI Workflows**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="20" height="20"/> `Next.js` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="20" height="20"/> `Flask` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="20" height="20"/> `Django` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/> `React.js` | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="20" height="20"/> `FastAPI` | `🔧 Make` | `🔄 n8n` | `🌀 flowise`
 
-  **Soft Skills**  
-  `🧠 Analytical Thinking` | `🛠️ Problem-Solving` | `🤝 Teamwork` | `👥 Leadership` | `🗣️ Communication` | `🔄 Cross-functional Collaboration`
-
-</details>
-
+**Soft Skills**  
+`🧠 Analytical Thinking` | `🛠️ Problem-Solving` | `🤝 Teamwork` | `👥 Leadership` | `🗣️ Communication` | `🔄 Cross-functional Collaboration`
 
 &nbsp;
 
-<details>
-  <summary>💼 <strong>Work Experience</strong></summary>
+## 💼 **Work Experience**
 
 ### **SanaExpert GmbH** *(Jan 2025 – Present)*  
 *Artificial Intelligence Specialist | Munich, Germany*  
@@ -76,12 +70,9 @@ ___
 *Lead Software Engineer | Haripur, Pakistan*  
 - 🌐 Built cross-platform applications, AI models for emotion detection & road safety.
 
-</details>
-
 &nbsp;
 
-<details>
-  <summary>📂 <strong>Projects</strong></summary>
+## 📂 **Projects**
 
 - 🎯 **SanaExpert AI Agent**: Multimodal AI Customer Support | FastAPI | Agentic AI *(Jan 2025 - Mar 2025)*  
 - 🎧 **Amidiro Audio Assistant**: AI Call Center Agent | Speech Models *(Jan 2024 - Sep 2024)*  
@@ -94,21 +85,16 @@ ___
 - 🐄 **Cow Diseases Prediction**: CNN-based skin disease detection *(Nov 2020 - Feb 2021)*  
 - 🦴 **Osteoarthritis Detection**: ResNet model for severity classification *(Jan 2020 - May 2020)*
 
-</details>
-
 &nbsp;
 
-<details>
-  <summary>🏆 <strong>Awards & Achievements</strong></summary>
+## 🏆 **Awards & Achievements**
 
 - 🥇 **Gold Medal/Chancellor Medal**: Top scorer in department *(Oct 2020)*  
-- 🏆 **HEC Scholarship Winner**: Merit-based award *(Mar 2018)*  
-</details>
+- 🏆 **HEC Scholarship Winner**: Merit-based award *(Mar 2018)*
 
 &nbsp;
 
-<details>
-  <summary>🎓 <strong>Education</strong></summary>
+## 🎓 **Education**
 
 - 🎓 **Friedrich-Alexander-Universität (FAU)** *(Oct 2022 – Present)*  
 *Master of Science in Artificial Intelligence | Erlangen, Germany*
@@ -116,11 +102,9 @@ ___
 - 🎓 **The University of Haripur** *(Sep 2016 – Oct 2020)*  
 *Bachelor of Science in Software Engineering | Haripur, Pakistan*
 
-</details>
-
 &nbsp;
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://twitter.com/omerkhanjadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omerkhanjadoon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omerkhanjadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omerkhanjadoon" height="30" width="40" /></a>
