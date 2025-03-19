@@ -43,7 +43,7 @@ ___
 | Column 1 | Column 2 |
 |----------|----------|
 | <img src="https://sanaexpert.com/wp-content/uploads/2021/02/logo_sanaexpert_eng.png" alt="SanaExpert Logo" width="200"/>   | **SanaExpert GmbH** (Jan 2025 – Present) <br>  *Artificial Intelligence Specialist - Munich, Germany*  <br><br> 🤖 Automated 85%+ of customer support tickets using AI across multiple countries & platforms. <br> 🛠️ Built Custom AI Agent with Advanced RAG & tool-calling, developed backend API with FastAPI.|
-| <img src="https://assets.super.so/8d26dd43-a87d-48f9-a995-7716cb675059/uploads/favicon/193d0af2-c01a-41b6-837e-619d6228ad23.png" alt="SanaExpert Logo" width="200"/>  |   **Amidiro GmbH** *(Dec 2023 – Present)* <br> *Werkstudent Generative AI & ML Consultant - Aachen, Germany*  <br><br> 🎧 Lead development of Amidiro Audio Assistant boosting lead conversions by 20%. <br> 🚀 Fine-tuned YOLO v9 on FireNet Dataset, automated safety & maintenance reports. <br> 🔄 Built internal RAG pipeline & trained teams on prompt engineering.|
+| <img src="https://assets.super.so/8d26dd43-a87d-48f9-a995-7716cb675059/uploads/favicon/193d0af2-c01a-41b6-837e-619d6228ad23.png" alt="SanaExpert Logo" width="100"/>  |   **Amidiro GmbH** *(Dec 2023 – Present)* <br> *Werkstudent Generative AI & ML Consultant - Aachen, Germany*  <br><br> 🎧 Lead development of Amidiro Audio Assistant boosting lead conversions by 20%. <br> 🚀 Fine-tuned YOLO v9 on FireNet Dataset, automated safety & maintenance reports. <br> 🔄 Built internal RAG pipeline & trained teams on prompt engineering.|
 
 
 
